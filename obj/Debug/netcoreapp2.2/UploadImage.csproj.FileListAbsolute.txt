@@ -1,0 +1,14 @@
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.csprojAssemblyReference.cache
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.csproj.CoreCompileInputs.cache
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorAssemblyInfo.cache
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorAssemblyInfo.cs
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.AssemblyInfoInputs.cache
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.AssemblyInfo.cs
+E:\Work\JS\Angular\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.deps.json
+E:\Work\JS\Angular\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.runtimeconfig.json
+E:\Work\JS\Angular\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.runtimeconfig.dev.json
+E:\Work\JS\Angular\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.dll
+E:\Work\JS\Angular\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.pdb
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorTargetAssemblyInfo.cache
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.dll
+E:\Work\JS\Angular\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.pdb
